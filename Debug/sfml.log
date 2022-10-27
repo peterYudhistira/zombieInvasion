@@ -1,0 +1,62 @@
+﻿  main.cpp
+C:\Users\User\OneDrive\Desktop\College\Semester 3\SD\PLUS DOKUMENTASI\Zombie Invasion\structure\tower.h(99,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\OneDrive\Desktop\College\Semester 3\SD\PLUS DOKUMENTASI\Zombie Invasion\structure\tower.h(99,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\OneDrive\Desktop\College\Semester 3\SD\PLUS DOKUMENTASI\Zombie Invasion\structure\stats.h(30,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\OneDrive\Desktop\College\Semester 3\SD\PLUS DOKUMENTASI\Zombie Invasion\structure\stats.h(30,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\OneDrive\Desktop\College\Semester 3\SD\PLUS DOKUMENTASI\Zombie Invasion\structure\stats.h(63,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\OneDrive\Desktop\College\Semester 3\SD\PLUS DOKUMENTASI\Zombie Invasion\structure\stats.h(63,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\OneDrive\Desktop\College\Semester 3\SD\PLUS DOKUMENTASI\Zombie Invasion\structure\movable.h(108,19): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\OneDrive\Desktop\College\Semester 3\SD\PLUS DOKUMENTASI\Zombie Invasion\structure\movable.h(120,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\User\OneDrive\Desktop\College\Semester 3\SD\PLUS DOKUMENTASI\Zombie Invasion\structure\movable.h(120,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\User\OneDrive\Desktop\College\Semester 3\SD\PLUS DOKUMENTASI\Zombie Invasion\structure\movable.h(134,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\OneDrive\Desktop\College\Semester 3\SD\PLUS DOKUMENTASI\Zombie Invasion\structure\movable.h(138,15): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\User\OneDrive\Desktop\College\Semester 3\SD\PLUS DOKUMENTASI\Zombie Invasion\structure\movable.h(157,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\OneDrive\Desktop\College\Semester 3\SD\PLUS DOKUMENTASI\Zombie Invasion\structure\movable.h(158,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\OneDrive\Desktop\College\Semester 3\SD\PLUS DOKUMENTASI\Zombie Invasion\structure\movable.h(182,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\OneDrive\Desktop\College\Semester 3\SD\PLUS DOKUMENTASI\Zombie Invasion\structure\spawn.h(104,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\OneDrive\Desktop\College\Semester 3\SD\PLUS DOKUMENTASI\Zombie Invasion\structure\spawn.h(134,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\OneDrive\Desktop\College\Semester 3\SD\PLUS DOKUMENTASI\Zombie Invasion\structure\spawn.h(170,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\OneDrive\Desktop\College\Semester 3\SD\PLUS DOKUMENTASI\Zombie Invasion\structure\spawn.h(170,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\OneDrive\Desktop\College\Semester 3\SD\PLUS DOKUMENTASI\Zombie Invasion\structure\spawn.h(198,18): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\User\OneDrive\Desktop\College\Semester 3\SD\PLUS DOKUMENTASI\Zombie Invasion\structure\spawn.h(205,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\OneDrive\Desktop\College\Semester 3\SD\PLUS DOKUMENTASI\Zombie Invasion\structure\spawn.h(205,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\OneDrive\Desktop\College\Semester 3\SD\PLUS DOKUMENTASI\Zombie Invasion\structure\spawn.h(273,17): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\User\OneDrive\Desktop\College\Semester 3\SD\PLUS DOKUMENTASI\Zombie Invasion\structure\spawn.h(329,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\OneDrive\Desktop\College\Semester 3\SD\PLUS DOKUMENTASI\Zombie Invasion\structure\spawn.h(329,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\OneDrive\Desktop\College\Semester 3\SD\PLUS DOKUMENTASI\Zombie Invasion\structure\Board.h(162,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\OneDrive\Desktop\College\Semester 3\SD\PLUS DOKUMENTASI\Zombie Invasion\structure\Game.h(42,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\OneDrive\Desktop\College\Semester 3\SD\PLUS DOKUMENTASI\Zombie Invasion\structure\Game.h(42,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\OneDrive\Desktop\College\Semester 3\SD\PLUS DOKUMENTASI\Zombie Invasion\structure\Game.h(53,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\OneDrive\Desktop\College\Semester 3\SD\PLUS DOKUMENTASI\Zombie Invasion\structure\Game.h(53,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\OneDrive\Desktop\College\Semester 3\SD\PLUS DOKUMENTASI\Zombie Invasion\structure\Game.h(63,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\User\OneDrive\Desktop\College\Semester 3\SD\PLUS DOKUMENTASI\Zombie Invasion\structure\Game.h(63,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\User\OneDrive\Desktop\College\Semester 3\SD\PLUS DOKUMENTASI\Zombie Invasion\structure\main.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  sfml.vcxproj -> C:\Users\User\OneDrive\Desktop\College\Semester 3\SD\PLUS DOKUMENTASI\Zombie Invasion\Debug\sfml.exe
